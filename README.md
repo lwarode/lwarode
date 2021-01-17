@@ -1,4 +1,4 @@
 - Background in Political Science 🏛
 - User of R/RStudio 
    - Fan of the tidyverse
-- Currently learning Python <img align="left" alt="Python" width="30px" src="https://img.utdstc.com/icons/python.png:200"/>
+- Currently learning Python <img align="right" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"/>
