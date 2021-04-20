@@ -4,3 +4,5 @@
    - Fan of the tidyverse <img align="center" alt="tidyverse" width="30px" src="https://tidyverse.tidyverse.org/articles/tidyverse-logo.png"/>
    
 - Currently learning Python <img align="center" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"/>
+
+- [Personal Website](https://lwarode.github.io/) (needs update)
