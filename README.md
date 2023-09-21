@@ -1,4 +1,4 @@
-- Background in Political Science 🏛 and Data Science for Public Policy Student 👨‍💻
+- Political Science PhD Student 🏛 Interest and Background in Political Data Science
 
 - Author of ParlGov Dashboard <img align="center" width="30px" src="https://github.com/lwarode/ParlGov_Dashboard/blob/main/pg_dashboard_sticker.png"/> 
 
