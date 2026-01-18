@@ -1,5 +1,5 @@
-- Political Science PhD Student 🏛 Interest and Background in Political Data Science
+- Political Science PhD Student 🏛 Interest and Background in Social Data Science
 
-- Author of ParlGov Dashboard <img align="center" width="30px" src="https://github.com/lwarode/ParlGov_Dashboard/blob/main/pg_dashboard_sticker.png"/> 
+- Author of ParlGov Dashboard <img align="center" width="30px" src="https://github.com/lwarode/ParlGov_Dashboard/blob/main/pg_dashboard_sticker.png"/>
 
-- R & Tidyverse User <img align="center" alt="R" width="30px" src="https://www.r-project.org/Rlogo.png"/> <img align="center" alt="tidyverse" width="30px" src="https://tidyverse.tidyverse.org/articles/tidyverse-logo.png"/>
+- Author of `partycoloR` <img align="center" width="30px" src="https://github.com/lwarode/partycoloR/blob/main/partycoloR_sticker.png"/> 
